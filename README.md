@@ -1,5 +1,5 @@
 # lvgl8_img_convert
-This code will convert an image file ( i.e bmp,jpg) to a RGB565 bin file that can be used for embedded devices using LVGL version 8. ( Such as the ESP32)
+This code will convert an image file ( i.e bmp,jpg,png ) to a RGB565 bin file that can be used for embedded devices using LVGL version 8. ( Such as the ESP32)
 
 The code also resizes the image to 156 x 156 ( Change this is you have different requirements)
 I wrrote this app for use with Python 3.11.0
